@@ -137,3 +137,6 @@ border-radius: 5%;
 }
 
 
+.box3 img:hover {
+ border : solid rgb(250, 28, 139);
+}
